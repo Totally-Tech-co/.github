@@ -1,7 +1,8 @@
 # Welcome to Totally Tech: Your Omani Tech Partner! 🚀
 
-!!![Totly tech RGP PNG WS](https://github.com/Totally-Tech-co/.github/assets/96175964/9277c03a-73fc-43c4-a512-a2593fbf0dfa)
-) <!-- Add the actual URL of the company logo -->
+![logo](https://github.com/Totally-Tech-co/.github/assets/96175964/52991fdc-e974-4101-b1dc-81530b503412)
+
+<!-- Add the actual URL of the company logo -->
 
 Hey there, and welcome to Totally Tech! We're not just a tech company; we're your go-to experts for cutting-edge solutions that transform ideas into reality.
 
