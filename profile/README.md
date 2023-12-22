@@ -1,6 +1,6 @@
 # Welcome to Totally Tech: Your Omani Tech Partner! 🚀
 
-![Totally Tech Logo](link_to_logo_image) <!-- Add the actual URL of the company logo -->
+![Totally Tech Logo](![TT facebook profile-31](https://github.com/Totally-Tech-co/.github/assets/96175964/11340730-b411-4cfc-bf2c-a384ee1fac3c)) <!-- Add the actual URL of the company logo -->
 
 Hey there, and welcome to Totally Tech! We're not just a tech company; we're your go-to experts for cutting-edge solutions that transform ideas into reality.
 
